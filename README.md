@@ -1,3 +1,3 @@
 # PythonOO
-Desenvolvimento Orientado a Objetos Utilizando a Linguagem Python - EVFB
+Object-Oriented Development Using the Python Language - EVFB
 
